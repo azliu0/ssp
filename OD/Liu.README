@@ -1,0 +1,15 @@
+this is my submission of the OD code with the additional functionalities of a monte-carlo simulation, and 
+a visual python visualization of our asteroid orbit.
+
+LiuOD.py is the main method for my code.
+
+this code takes multiple instances of user entry. multiple times throughout the program, the user is required 
+to press enter to continue working through the program, so that the user is not overwhelmed with print statements.
+
+for each typed user entry, follow the instructions marked by the line preceding the user entry. 
+hopefully, the error catching has been coded correctly so that even if the user enters a format which is incorrect,
+the code will reject the input and ask the user to re-enter using the correct format
+
+IMPORTANT: for the main method of gauss function, only observations 2,3,4 will return usable data. all other 
+combinations of observations will not work, and the program will end and ask you to pick different data. 
+pick observations 2,3,4 when the program asks you which observations to pick. 
